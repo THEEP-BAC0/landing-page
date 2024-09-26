@@ -1,0 +1,30 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+header {
+    display: flex;
+    justify-content: space-evenly;
+    height: fit-content;
+    background-color: rgb(31, 41, 56);
+    padding: 12px;
+}
+
+header p {
+    color: white;
+    margin: 0px;
+}
+
+header ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+header a {
+    margin-left: 10px;
+    color: rgb(117, 128, 139);
+    text-decoration: none;
+}
